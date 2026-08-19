@@ -1,6 +1,6 @@
 {
-  "version": "1.13.0",
-  "downloadUrl": "https://github.com/noahfgarrett/SSM-Audit-Releases/releases/download/v1.13.0/SSM-Audit-v1.13.0.html",
-  "releaseNotes": "- Every check on the Rules screen now has an Example button: a small made-up registry that shows exactly what gets flagged, with the cell shaded and the offending characters marked, alongside why it is flagged, what the audit says about it, and what right looks like\n- Each example is run through the real audit engine when opened, so the verdict shown is live, not a copy",
-  "publishedAt": "2026-08-19T13:10:24Z"
+  "version": "1.13.1",
+  "downloadUrl": "https://github.com/noahfgarrett/SSM-Audit-Releases/releases/download/v1.13.1/SSM-Audit-v1.13.1.html",
+  "releaseNotes": "- Fixed the update download: GitHub changed where release files are served from, which blocked the in-app fetch. The Download button now hands the file straight to the browser, so it lands in Downloads as SSM-Audit-v<version>.html",
+  "publishedAt": "2026-08-19T13:28:31Z"
 }
