@@ -1,6 +1,6 @@
 {
-  "version": "1.12.0",
-  "downloadUrl": "https://github.com/noahfgarrett/SSM-Audit-Releases/releases/download/v1.12.0/SSM-Audit-v1.12.0.html",
-  "releaseNotes": "- Excel report Dashboard redesigned: a large overall progress bar at the top, the level totals, and wide progress bars with live percentages per discipline and per L2 phase (the Index keeps its compact form)\n- Actioned is now a tick box: click the cell and choose ☑; the row turns green and every progress figure updates\n- Milestone tabs: each nest level has its own colour (not shades of one), equipment IDs are always black, Dependencies sits right after Closest Parent, Building and Item Master are included, and the cell a finding is about (UPN, Closest Parent, Dependencies, System Name, …) is shaded light red",
-  "publishedAt": "2026-08-19T12:36:11Z"
+  "version": "1.13.0",
+  "downloadUrl": "https://github.com/noahfgarrett/SSM-Audit-Releases/releases/download/v1.13.0/SSM-Audit-v1.13.0.html",
+  "releaseNotes": "- Every check on the Rules screen now has an Example button: a small made-up registry that shows exactly what gets flagged, with the cell shaded and the offending characters marked, alongside why it is flagged, what the audit says about it, and what right looks like\n- Each example is run through the real audit engine when opened, so the verdict shown is live, not a copy",
+  "publishedAt": "2026-08-19T13:10:24Z"
 }
