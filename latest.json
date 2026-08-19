@@ -1,6 +1,6 @@
 {
-  "version": "1.11.2",
-  "downloadUrl": "https://github.com/noahfgarrett/SSM-Audit-Releases/releases/download/v1.11.2/SSM-Audit-v1.11.2.html",
-  "releaseNotes": "- The update check is no longer silent: the Changelog window now says whether you are on the latest version, whether a newer one is available, or why the check could not run, with a Check again button\n- When GitHub limits checks from a busy network (60 an hour per site address), SSM Audit falls back to a second source so the update still shows\n- The automatic check quietly retries once if the first attempt runs before the network is ready",
-  "publishedAt": "2026-08-19T11:23:04Z"
+  "version": "1.12.0",
+  "downloadUrl": "https://github.com/noahfgarrett/SSM-Audit-Releases/releases/download/v1.12.0/SSM-Audit-v1.12.0.html",
+  "releaseNotes": "- Excel report Dashboard redesigned: a large overall progress bar at the top, the level totals, and wide progress bars with live percentages per discipline and per L2 phase (the Index keeps its compact form)\n- Actioned is now a tick box: click the cell and choose ☑; the row turns green and every progress figure updates\n- Milestone tabs: each nest level has its own colour (not shades of one), equipment IDs are always black, Dependencies sits right after Closest Parent, Building and Item Master are included, and the cell a finding is about (UPN, Closest Parent, Dependencies, System Name, …) is shaded light red",
+  "publishedAt": "2026-08-19T12:36:11Z"
 }
