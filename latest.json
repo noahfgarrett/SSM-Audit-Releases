@@ -1,6 +1,6 @@
 {
-  "version": "1.17.3",
-  "downloadUrl": "https://github.com/noahfgarrett/SSM-Audit-Releases/releases/download/v1.17.3/SSM-Audit-v1.17.3.html",
-  "releaseNotes": "- The loading circle is now a true gauge: the arc starts at the top, stays put, and its length always matches the number — 45% shows 45% of the circle\n- Progress is reported step by step: importing shows opening, scanning, parsing, and checking as separate stages, and exporting names each part of the workbook as it is compressed, so the percentage moves smoothly instead of jumping\n- On a large registry the one unavoidable pause (writing the workbook itself) is labelled before it starts, and the loader keeps breathing through it",
-  "publishedAt": "2026-08-20T16:58:46Z"
+  "version": "1.17.4",
+  "downloadUrl": "https://github.com/noahfgarrett/SSM-Audit-Releases/releases/download/v1.17.4/SSM-Audit-v1.17.4.html",
+  "releaseNotes": "- The loading circle spins again — and the arc now keeps up with the number: previously the arc eased so slowly that it could still show around 20% while the label already read 45%. The section you see always matches the percentage",
+  "publishedAt": "2026-08-20T17:58:55Z"
 }
