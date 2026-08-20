@@ -1,6 +1,6 @@
 {
-  "version": "1.13.2",
-  "downloadUrl": "https://github.com/noahfgarrett/SSM-Audit-Releases/releases/download/v1.13.2/SSM-Audit-v1.13.2.html",
-  "releaseNotes": "- The Excel report is now about a quarter of the size (a 20,000-row registry drops from roughly 24 MB to 6 MB): the workbook is zipped with a proper compressor and repeated finding text is stored once\n- Fixed Excel asking to repair large reports: per-discipline progress is now calculated on a hidden Calc sheet instead of one very long formula that exceeded Excel's limit on registries with many milestones\n- The export shows a progress overlay while it builds",
-  "publishedAt": "2026-08-19T16:37:09Z"
+  "version": "1.14.0",
+  "downloadUrl": "https://github.com/noahfgarrett/SSM-Audit-Releases/releases/download/v1.14.0/SSM-Audit-v1.14.0.html",
+  "releaseNotes": "- Export now opens a chooser first: for each finding level — or any individual check — pick Include, Pre-ticked, or Leave out\n- Pre-ticked findings arrive with the Actioned box already ☑ (green row, counted as done); Leave out findings are not written into the report at all, and every count and progress bar reflects it\n- An equipment row only starts ticked when every one of its findings is pre-ticked; the equipment tree itself is always complete\n- Your choices are remembered for the next export of the same session",
+  "publishedAt": "2026-08-20T11:07:40Z"
 }
