@@ -1,6 +1,6 @@
 {
-  "version": "1.17.2",
-  "downloadUrl": "https://github.com/noahfgarrett/SSM-Audit-Releases/releases/download/v1.17.2/SSM-Audit-v1.17.2.html",
-  "releaseNotes": "- Visual pass across every screen at desktop, tablet, and narrow widths:\n- Fixed the finding boxes clipping in the SSM Hierarchy equipment drawer (the level chip was squeezed into a column narrower than the chip)\n- Sidebar counts now show compactly from four digits up (7.1k, 23k — exact number in the tooltip), so the Audit Findings label never gets cut to \"…\"\n- Fixed level chips being trimmed in the Checks overview table on narrow windows\n- The worked-example table in Rules keeps a visible scrollbar so it is obvious there is more to the right",
-  "publishedAt": "2026-08-20T16:42:17Z"
+  "version": "1.17.3",
+  "downloadUrl": "https://github.com/noahfgarrett/SSM-Audit-Releases/releases/download/v1.17.3/SSM-Audit-v1.17.3.html",
+  "releaseNotes": "- The loading circle is now a true gauge: the arc starts at the top, stays put, and its length always matches the number — 45% shows 45% of the circle\n- Progress is reported step by step: importing shows opening, scanning, parsing, and checking as separate stages, and exporting names each part of the workbook as it is compressed, so the percentage moves smoothly instead of jumping\n- On a large registry the one unavoidable pause (writing the workbook itself) is labelled before it starts, and the loader keeps breathing through it",
+  "publishedAt": "2026-08-20T16:58:46Z"
 }
