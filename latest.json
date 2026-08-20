@@ -1,6 +1,6 @@
 {
-  "version": "1.15.1",
-  "downloadUrl": "https://github.com/noahfgarrett/SSM-Audit-Releases/releases/download/v1.15.1/SSM-Audit-v1.15.1.html",
-  "releaseNotes": "- Fixed the findings list sometimes going blank below halfway: grouped section headers were shorter than the list's fixed row height, so the rendered slice fell short of the screen\n- Fixed level counts clipping on the Dashboard's milestone readiness table when numbers pass three digits: the By level column is wider and wraps instead of cutting off\n- The Dashboard's deep-dive sections (Milestone readiness, Hierarchy health, Dependencies, Checks overview, Structure) now share one tab strip, so the page is one screen tall instead of a long scroll",
-  "publishedAt": "2026-08-20T13:38:22Z"
+  "version": "1.15.2",
+  "downloadUrl": "https://github.com/noahfgarrett/SSM-Audit-Releases/releases/download/v1.15.2/SSM-Audit-v1.15.2.html",
+  "releaseNotes": "- Show in hierarchy now lands with a clear temporary highlight: the equipment row pulses orange for about three seconds after the jump, then settles back\n- Menu and page titles read Audit Findings, SSM Hierarchy, and Compare Projects",
+  "publishedAt": "2026-08-20T13:45:59Z"
 }
