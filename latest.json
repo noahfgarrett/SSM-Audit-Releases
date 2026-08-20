@@ -1,6 +1,6 @@
 {
-  "version": "1.16.0",
-  "downloadUrl": "https://github.com/noahfgarrett/SSM-Audit-Releases/releases/download/v1.16.0/SSM-Audit-v1.16.0.html",
-  "releaseNotes": "- UPN RR is now recognised as belonging to the CSA system: rows with System Name \"CSA\" or \"Civil Structural Architectural Systems (CSA)\" on UPN RR pass the System-Name check instead of being flagged Invalid\n- CSA on a numeric UPN, or a numeric system on RR, still flags as before",
-  "publishedAt": "2026-08-20T14:38:28Z"
+  "version": "1.17.0",
+  "downloadUrl": "https://github.com/noahfgarrett/SSM-Audit-Releases/releases/download/v1.17.0/SSM-Audit-v1.17.0.html",
+  "releaseNotes": "- UPN SEC is now recognised as belonging to Security: rows with System Name \"Security\" or \"Security Systems\" on UPN SEC pass the System-Name check\n- UPN MISC is treated as the catch-all it is: MISC rows no longer get the impossible System-Name error — instead every MISC row carries a Note reminding you to double-check whether an approved UPN fits, and the new check has its own worked example on the Rules screen",
+  "publishedAt": "2026-08-20T14:46:40Z"
 }
