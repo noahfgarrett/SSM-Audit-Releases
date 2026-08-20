@@ -1,6 +1,6 @@
 {
-  "version": "1.14.0",
-  "downloadUrl": "https://github.com/noahfgarrett/SSM-Audit-Releases/releases/download/v1.14.0/SSM-Audit-v1.14.0.html",
-  "releaseNotes": "- Export now opens a chooser first: for each finding level — or any individual check — pick Include, Pre-ticked, or Leave out\n- Pre-ticked findings arrive with the Actioned box already ☑ (green row, counted as done); Leave out findings are not written into the report at all, and every count and progress bar reflects it\n- An equipment row only starts ticked when every one of its findings is pre-ticked; the equipment tree itself is always complete\n- Your choices are remembered for the next export of the same session",
-  "publishedAt": "2026-08-20T11:07:40Z"
+  "version": "1.15.0",
+  "downloadUrl": "https://github.com/noahfgarrett/SSM-Audit-Releases/releases/download/v1.15.0/SSM-Audit-v1.15.0.html",
+  "releaseNotes": "- Equipment with several findings is now one merged block in the report: the equipment appears once, its findings stack beside it, and a single Actioned box covers the whole block (ticking it turns the entire block green)\n- New report layout option in the export chooser: one tab per finding level (Invalid / Rule broken / Check this / Note) instead of one per milestone — flagged equipment only, ordered by milestone, with an L2 Milestone column; the Dashboard and Index follow whichever layout is chosen",
+  "publishedAt": "2026-08-20T13:04:38Z"
 }
