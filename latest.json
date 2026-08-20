@@ -1,6 +1,6 @@
 {
-  "version": "1.15.2",
-  "downloadUrl": "https://github.com/noahfgarrett/SSM-Audit-Releases/releases/download/v1.15.2/SSM-Audit-v1.15.2.html",
-  "releaseNotes": "- Show in hierarchy now lands with a clear temporary highlight: the equipment row pulses orange for about three seconds after the jump, then settles back\n- Menu and page titles read Audit Findings, SSM Hierarchy, and Compare Projects",
-  "publishedAt": "2026-08-20T13:45:59Z"
+  "version": "1.16.0",
+  "downloadUrl": "https://github.com/noahfgarrett/SSM-Audit-Releases/releases/download/v1.16.0/SSM-Audit-v1.16.0.html",
+  "releaseNotes": "- UPN RR is now recognised as belonging to the CSA system: rows with System Name \"CSA\" or \"Civil Structural Architectural Systems (CSA)\" on UPN RR pass the System-Name check instead of being flagged Invalid\n- CSA on a numeric UPN, or a numeric system on RR, still flags as before",
+  "publishedAt": "2026-08-20T14:38:28Z"
 }
