@@ -1,6 +1,6 @@
 {
-  "version": "1.17.1",
-  "downloadUrl": "https://github.com/noahfgarrett/SSM-Audit-Releases/releases/download/v1.17.1/SSM-Audit-v1.17.1.html",
-  "releaseNotes": "- Fixed Show in hierarchy not visibly highlighting the target: the jump scrolled the tree before its rows existed, so the scroll was clamped to the top and the highlight happened off screen unless the equipment sat in the first viewport. The tree now renders, then scrolls, then draws the window around the target — the row lands centred and pulses\n- Jumping again within a few seconds no longer cuts the new highlight short",
-  "publishedAt": "2026-08-20T15:34:26Z"
+  "version": "1.17.2",
+  "downloadUrl": "https://github.com/noahfgarrett/SSM-Audit-Releases/releases/download/v1.17.2/SSM-Audit-v1.17.2.html",
+  "releaseNotes": "- Visual pass across every screen at desktop, tablet, and narrow widths:\n- Fixed the finding boxes clipping in the SSM Hierarchy equipment drawer (the level chip was squeezed into a column narrower than the chip)\n- Sidebar counts now show compactly from four digits up (7.1k, 23k — exact number in the tooltip), so the Audit Findings label never gets cut to \"…\"\n- Fixed level chips being trimmed in the Checks overview table on narrow windows\n- The worked-example table in Rules keeps a visible scrollbar so it is obvious there is more to the right",
+  "publishedAt": "2026-08-20T16:42:17Z"
 }
