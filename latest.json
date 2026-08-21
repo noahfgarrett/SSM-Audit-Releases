@@ -1,6 +1,6 @@
 {
-  "version": "1.17.4",
-  "downloadUrl": "https://github.com/noahfgarrett/SSM-Audit-Releases/releases/download/v1.17.4/SSM-Audit-v1.17.4.html",
-  "releaseNotes": "- The loading circle spins again — and the arc now keeps up with the number: previously the arc eased so slowly that it could still show around 20% while the label already read 45%. The section you see always matches the percentage",
-  "publishedAt": "2026-08-20T17:58:55Z"
+  "version": "1.18.0",
+  "downloadUrl": "https://github.com/noahfgarrett/SSM-Audit-Releases/releases/download/v1.18.0/SSM-Audit-v1.18.0.html",
+  "releaseNotes": "- The fiber distribution unit check now follows how FDUs are really placed: an FDU nested under the PLC, RIO, or patch panel it belongs to (same UPN) needs no dependency, and one that names that equipment as a dependency is fine too. Only an FDU hanging off a header alone, with nothing listed, is flagged\n- The rule text and its worked example no longer suggest an FDU should list the equipment it serves — a dependency is what a row relies on, and the equipment an FDU serves is either above it in the tree or lists the FDU itself",
+  "publishedAt": "2026-08-21T12:59:29Z"
 }
