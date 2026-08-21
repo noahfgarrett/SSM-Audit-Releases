@@ -1,6 +1,6 @@
 {
-  "version": "1.19.0",
-  "downloadUrl": "https://github.com/noahfgarrett/SSM-Audit-Releases/releases/download/v1.19.0/SSM-Audit-v1.19.0.html",
-  "releaseNotes": "- Relationship checks now respect that nesting carries the link: a control device under equipment whose dependency is the RIO, PLC, or VFD, an RIO inside a panel under the PLC, or a VESDA nested under its fire alarm panel no longer needs to repeat that equipment as a dependency. Only rows with nothing above them or beside them pointing at the controlling equipment are flagged\n- The fire alarm panel check also recognises \"fire alarm control panel\" and FACP",
-  "publishedAt": "2026-08-21T13:22:58Z"
+  "version": "1.20.0",
+  "downloadUrl": "https://github.com/noahfgarrett/SSM-Audit-Releases/releases/download/v1.20.0/SSM-Audit-v1.20.0.html",
+  "releaseNotes": "- Rules screen: switch any check off to leave it out of the findings, Dashboard, and Excel report\n- Excel report progress bars now fill their cells\n- Shorter release notes",
+  "publishedAt": "2026-08-21T13:51:48Z"
 }
