@@ -1,6 +1,6 @@
 {
-  "version": "1.20.0",
-  "downloadUrl": "https://github.com/noahfgarrett/SSM-Audit-Releases/releases/download/v1.20.0/SSM-Audit-v1.20.0.html",
-  "releaseNotes": "- Rules screen: switch any check off to leave it out of the findings, Dashboard, and Excel report\n- Excel report progress bars now fill their cells\n- Shorter release notes",
-  "publishedAt": "2026-08-21T13:51:48Z"
+  "version": "1.20.1",
+  "downloadUrl": "https://github.com/noahfgarrett/SSM-Audit-Releases/releases/download/v1.20.1/SSM-Audit-v1.20.1.html",
+  "releaseNotes": "- Fixed the Audit Findings list stopping halfway down the page\n- Level pills: the first click narrows to that level, further clicks add or remove levels",
+  "publishedAt": "2026-08-21T14:08:37Z"
 }
