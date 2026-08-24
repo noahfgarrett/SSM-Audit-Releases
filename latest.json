@@ -1,6 +1,6 @@
 {
-  "version": "1.21.0",
-  "downloadUrl": "https://github.com/noahfgarrett/SSM-Audit-Releases/releases/download/v1.21.0/SSM-Audit-v1.21.0.html",
-  "releaseNotes": "- Rules screen: controls line up in fixed columns and descriptions wrap cleanly\n- The upload template is now called the VF Exto Upload Template throughout",
-  "publishedAt": "2026-08-21T14:28:32Z"
+  "version": "1.21.1",
+  "downloadUrl": "https://github.com/noahfgarrett/SSM-Audit-Releases/releases/download/v1.21.1/SSM-Audit-v1.21.1.html",
+  "releaseNotes": "- A description-shaped Equipment ID is now Check this rather than Invalid",
+  "publishedAt": "2026-08-24T14:04:10Z"
 }
