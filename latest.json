@@ -1,6 +1,6 @@
 {
-  "version": "1.22.0",
-  "downloadUrl": "https://github.com/noahfgarrett/SSM-Audit-Releases/releases/download/v1.22.0/SSM-Audit-v1.22.0.html",
-  "releaseNotes": "- Findings can be marked Actioned in the app; marks are remembered for the same registry and arrive pre-ticked in the Excel report\n- Dashboard: a breakdown by check under the level tiles, each entry opening just those findings\n- Dashboard tabs no longer jump the page back to the top",
-  "publishedAt": "2026-08-24T15:08:05Z"
+  "version": "1.23.0",
+  "downloadUrl": "https://github.com/noahfgarrett/SSM-Audit-Releases/releases/download/v1.23.0/SSM-Audit-v1.23.0.html",
+  "releaseNotes": "- The L2 milestone check now links milestones to their UPN properly: an explicit UPN marker, a UPN in parentheses, a standalone three-digit UPN, or the system's name or abbreviation — digits inside longer numbers no longer count\n- Findings from this check say how the milestone was matched",
+  "publishedAt": "2026-08-24T17:12:11Z"
 }
