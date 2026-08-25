@@ -1,6 +1,6 @@
 {
-  "version": "1.29.0",
-  "downloadUrl": "https://github.com/noahfgarrett/SSM-Audit-Releases/releases/download/v1.29.0/SSM-Audit-v1.29.0.html",
-  "releaseNotes": "Modifications improvements.",
-  "publishedAt": "2026-08-25T17:30:00Z"
+  "version": "1.30.0",
+  "downloadUrl": "https://github.com/noahfgarrett/SSM-Audit-Releases/releases/download/v1.30.0/SSM-Audit-v1.30.0.html",
+  "releaseNotes": "One UPN, one system check reworked.",
+  "publishedAt": "2026-08-25T18:40:00Z"
 }
