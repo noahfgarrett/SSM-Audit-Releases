@@ -1,6 +1,6 @@
 {
-  "version": "1.37.0",
-  "downloadUrl": "https://github.com/noahfgarrett/SSM-Audit-Releases/releases/download/v1.37.0/SSM-Audit-v1.37.0.html",
-  "releaseNotes": "Updated Registry improvement.",
-  "publishedAt": "2026-08-26T03:30:00Z"
+  "version": "1.38.0",
+  "downloadUrl": "https://github.com/noahfgarrett/SSM-Audit-Releases/releases/download/v1.38.0/SSM-Audit-v1.38.0.html",
+  "releaseNotes": "Clearer check names.",
+  "publishedAt": "2026-08-26T04:30:00Z"
 }
