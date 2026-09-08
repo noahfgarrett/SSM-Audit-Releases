@@ -1,6 +1,6 @@
 {
-  "version": "1.38.3",
-  "downloadUrl": "https://github.com/noahfgarrett/SSM-Audit-Releases/releases/download/v1.38.3/SSM-Audit-v1.38.3.html",
-  "releaseNotes": "Action dialog fixes.",
-  "publishedAt": "2026-08-26T07:00:00Z"
+  "version": "1.39.0",
+  "downloadUrl": "https://github.com/noahfgarrett/SSM-Audit-Releases/releases/download/v1.39.0/SSM-Audit-v1.39.0.html",
+  "releaseNotes": "- Improved finding reviews and correction exports\n- Fixed issues affecting audit results and progress tracking\n",
+  "publishedAt": "2026-09-08T13:02:37Z"
 }
