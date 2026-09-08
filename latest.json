@@ -1,6 +1,6 @@
 {
-  "version": "1.39.2",
-  "downloadUrl": "https://github.com/noahfgarrett/SSM-Audit-Releases/releases/download/v1.39.2/SSM-Audit-v1.39.2.html",
-  "releaseNotes": "- Improved responsiveness when loading large workbooks",
-  "publishedAt": "2026-09-08T14:53:12.674Z"
+  "version": "1.39.3",
+  "downloadUrl": "https://github.com/noahfgarrett/SSM-Audit-Releases/releases/download/v1.39.3/SSM-Audit-v1.39.3.html",
+  "releaseNotes": "- Improved suggested corrections\n- Fixed highlighting in updated workbook exports",
+  "publishedAt": "2026-09-08T18:38:18.271Z"
 }
