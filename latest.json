@@ -1,6 +1,6 @@
 {
-  "version": "1.39.6",
-  "downloadUrl": "https://github.com/noahfgarrett/SSM-Audit-Releases/releases/download/v1.39.6/SSM-Audit-v1.39.6.html",
-  "releaseNotes": "- Improved milestone checks and guidance\n- Added support for reviewing project milestone updates",
-  "publishedAt": "2026-09-09T11:14:41.068Z"
+  "version": "1.39.7",
+  "downloadUrl": "https://github.com/noahfgarrett/SSM-Audit-Releases/releases/download/v1.39.7/SSM-Audit-v1.39.7.html",
+  "releaseNotes": "- Improved action editing and responsiveness\n- Updated tracker exports and guidance",
+  "publishedAt": "2026-09-09T13:03:23.211Z"
 }
