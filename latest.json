@@ -1,6 +1,6 @@
 {
-  "version": "1.40.0",
-  "downloadUrl": "https://github.com/noahfgarrett/SSM-Audit-Releases/releases/download/v1.40.0/SSM-Audit-v1.40.0.html",
-  "releaseNotes": "- Improved action reviews and suggested changes\n- Improved loading responsiveness and updated exports",
-  "publishedAt": "2026-09-09T14:03:58.718Z"
+  "version": "1.40.1",
+  "downloadUrl": "https://github.com/noahfgarrett/SSM-Audit-Releases/releases/download/v1.40.1/SSM-Audit-v1.40.1.html",
+  "releaseNotes": "- Simplified milestone updates and review",
+  "publishedAt": "2026-09-09T14:21:47.483Z"
 }
