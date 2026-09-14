@@ -1,6 +1,6 @@
 {
-  "version": "1.43.0",
-  "downloadUrl": "https://github.com/noahfgarrett/SSM-Audit-Releases/releases/download/v1.43.0/SSM-Audit-v1.43.0.html",
-  "releaseNotes": "Suggested milestones, with the evidence.",
-  "publishedAt": "2026-09-12T20:00:00Z"
+  "version": "1.43.1",
+  "downloadUrl": "https://github.com/noahfgarrett/SSM-Audit-Releases/releases/download/v1.43.1/SSM-Audit-v1.43.1.html",
+  "releaseNotes": "- Improved upload export formatting",
+  "publishedAt": "2026-09-14T11:43:38.781Z"
 }
