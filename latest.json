@@ -1,6 +1,6 @@
 {
-  "version": "1.44.1",
-  "downloadUrl": "https://github.com/noahfgarrett/SSM-Audit-Releases/releases/download/v1.44.1/SSM-Audit-v1.44.1.html",
-  "releaseNotes": "- Improved upload export metadata",
-  "publishedAt": "2026-09-14T13:10:48.565Z"
+  "version": "1.45.0",
+  "downloadUrl": "https://github.com/noahfgarrett/SSM-Audit-Releases/releases/download/v1.45.0/SSM-Audit-v1.45.0.html",
+  "releaseNotes": "Emails filled in from the registry.",
+  "publishedAt": "2026-09-15T18:40:00Z"
 }
