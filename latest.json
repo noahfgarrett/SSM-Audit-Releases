@@ -1,6 +1,6 @@
 {
-  "version": "1.46.0",
-  "downloadUrl": "https://github.com/noahfgarrett/SSM-Audit-Releases/releases/download/v1.46.0/SSM-Audit-v1.46.0.html",
-  "releaseNotes": "Housekeeping.",
-  "publishedAt": "2026-09-15T19:30:00Z"
+  "version": "1.47.0",
+  "downloadUrl": "https://github.com/noahfgarrett/SSM-Audit-Releases/releases/download/v1.47.0/SSM-Audit-v1.47.0.html",
+  "releaseNotes": "- Added support for additional project documents\n- Improved finding organization and review styling",
+  "publishedAt": "2026-09-18T14:11:04.704Z"
 }
