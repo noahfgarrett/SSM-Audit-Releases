@@ -1,6 +1,6 @@
 {
-  "version": "1.48.0",
-  "downloadUrl": "https://github.com/noahfgarrett/SSM-Audit-Releases/releases/download/v1.48.0/SSM-Audit-v1.48.0.html",
-  "releaseNotes": "- Added email update controls\n- Improved review and export consistency",
-  "publishedAt": "2026-09-22T19:39:16.187Z"
+  "version": "1.49.0",
+  "downloadUrl": "https://github.com/noahfgarrett/SSM-Audit-Releases/releases/download/v1.49.0/SSM-Audit-v1.49.0.html",
+  "releaseNotes": "- Added a new registry export option",
+  "publishedAt": "2026-09-23T17:22:13.598Z"
 }
