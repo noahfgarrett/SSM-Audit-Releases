@@ -1,6 +1,6 @@
 {
-  "version": "1.49.0",
-  "downloadUrl": "https://github.com/noahfgarrett/SSM-Audit-Releases/releases/download/v1.49.0/SSM-Audit-v1.49.0.html",
-  "releaseNotes": "- Added a new registry export option",
-  "publishedAt": "2026-09-23T17:22:13.598Z"
+  "version": "1.49.1",
+  "downloadUrl": "https://github.com/noahfgarrett/SSM-Audit-Releases/releases/download/v1.49.1/SSM-Audit-v1.49.1.html",
+  "releaseNotes": "- Completion filtering now treats every tag in the Equipment Status Report as completed, regardless of steps or statuses.\n- Important: Please download fresh full-site data before using this version, and include only completed equipment in the Equipment Status Report.",
+  "publishedAt": "2026-09-25T18:11:35.730Z"
 }
