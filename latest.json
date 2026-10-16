@@ -1,6 +1,6 @@
 {
-  "version": "1.50.0",
-  "downloadUrl": "https://github.com/noahfgarrett/SSM-Audit-Releases/releases/download/v1.50.0/SSM-Audit-v1.50.0.html",
-  "releaseNotes": "- Added a Dependencies tab that checks the registry against EasyPower, Cable Schedule and PMD exports, including CSV files\n- Fixed an issue where exported workbooks did not keep their header row frozen",
-  "publishedAt": "2026-10-16T14:21:39.000Z"
+  "version": "1.50.1",
+  "downloadUrl": "https://github.com/noahfgarrett/SSM-Audit-Releases/releases/download/v1.50.1/SSM-Audit-v1.50.1.html",
+  "releaseNotes": "- Fixed an issue where loading a registry with a large EasyPower export could stall",
+  "publishedAt": "2026-10-16T14:44:20.000Z"
 }
