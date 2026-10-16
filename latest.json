@@ -1,6 +1,6 @@
 {
-  "version": "1.50.1",
-  "downloadUrl": "https://github.com/noahfgarrett/SSM-Audit-Releases/releases/download/v1.50.1/SSM-Audit-v1.50.1.html",
-  "releaseNotes": "- Fixed an issue where loading a registry with a large EasyPower export could stall",
-  "publishedAt": "2026-10-16T14:44:20.000Z"
+  "version": "1.50.2",
+  "downloadUrl": "https://github.com/noahfgarrett/SSM-Audit-Releases/releases/download/v1.50.2/SSM-Audit-v1.50.2.html",
+  "releaseNotes": "- Added a power hierarchy view to the Dependencies tab\n- Column headers on the Dependencies tab now stay visible while scrolling",
+  "publishedAt": "2026-10-16T17:58:55.000Z"
 }
